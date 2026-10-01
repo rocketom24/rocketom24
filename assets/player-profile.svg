@@ -1,0 +1,75 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="300" rx="18" fill="#0B0B0B"></rect>
+
+  <!-- Outer neon border -->
+  <rect x="4" y="4" width="892" height="292" rx="16" fill="none" stroke="#FF2D95" stroke-width="4"></rect>
+
+  <!-- Inner soft border -->
+  <rect x="14" y="14" width="872" height="272" rx="12" fill="none" stroke="#F8BBD8" stroke-width="1" opacity="0.6"></rect>
+
+  <!-- Decorative pink blocks -->
+  <rect x="35" y="35" width="12" height="12" fill="#FF2D95"></rect>
+  <rect x="55" y="35" width="12" height="12" fill="#F8BBD8"></rect>
+  <rect x="75" y="35" width="12" height="12" fill="#FF2D95"></rect>
+
+  <!-- Header -->
+  <text x="105" y="50" fill="#FFFFFF" font-family="monospace" font-size="25" font-weight="bold">
+    PLAYER PROFILE
+  </text>
+
+  <text x="820" y="50" fill="#FF2D95" font-family="monospace" font-size="20">
+    ✦
+  </text>
+
+  <!-- Divider -->
+  <line x1="35" y1="75" x2="865" y2="75" stroke="#FF2D95" stroke-width="2"></line>
+
+  <!-- Status -->
+  <text x="45" y="115" fill="#F8BBD8" font-family="monospace" font-size="18" font-weight="bold">
+    STATUS
+  </text>
+
+  <text x="190" y="115" fill="#FFFFFF" font-family="monospace" font-size="18">
+    BUILDING SOMETHING
+  </text>
+
+  <!-- Mood -->
+  <text x="45" y="150" fill="#F8BBD8" font-family="monospace" font-size="18" font-weight="bold">
+    MOOD
+  </text>
+
+  <text x="190" y="150" fill="#FF2D95" font-family="monospace" font-size="18">
+    ✦ CURIOUS ✦
+  </text>
+
+  <!-- XP -->
+  <text x="45" y="190" fill="#F8BBD8" font-family="monospace" font-size="18" font-weight="bold">
+    XP
+  </text>
+
+  <!-- XP background -->
+  <rect x="190" y="174" width="350" height="22" rx="4" fill="#252525"></rect>
+
+  <!-- XP progress -->
+  <rect x="190" y="174" width="270" height="22" rx="4" fill="#FF2D95"></rect>
+
+  <!-- XP text -->
+  <text x="560" y="191" fill="#FFFFFF" font-family="monospace" font-size="15">
+    77%
+  </text>
+
+  <!-- Start button -->
+  <rect x="45" y="225" width="810" height="40" rx="6" fill="#151515" stroke="#F8BBD8" stroke-width="1"></rect>
+
+  <text x="70" y="251" fill="#FF2D95" font-family="monospace" font-size="17" font-weight="bold">
+    &gt; PRESS START TO EXPLORE_
+  </text>
+
+  <!-- Bottom decorative blocks -->
+  <rect x="790" y="237" width="10" height="10" fill="#FF2D95"></rect>
+  <rect x="810" y="237" width="10" height="10" fill="#F8BBD8"></rect>
+  <rect x="830" y="237" width="10" height="10" fill="#FF2D95"></rect>
+
+</svg>
