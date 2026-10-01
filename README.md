@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/Mimi (1).png" width="100%">
+<img src="./assets/mimi-hero.png" width="100%">
 
 <br><br>
 
