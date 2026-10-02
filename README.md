@@ -2,75 +2,103 @@
 
 <div align="center">
 
-<img src="./assets/mimi-hero.png" width="100%">
+<img src="./assets/hero.png" width="100%">
 
 <br><br>
 
-<h2>✦ hey, you found my little corner of the internet ✦</h2>
+<h2>✦ so... what am I actually doing here?</h2>
 
 <p>
-  🖥️ I <strong>love to code</strong>, build random ideas, and turn
+  Somewhere between an idea, a blank editor, and way too many browser tabs,
   <br>
-  “what if I made this?” into something that actually exists.
+  you'll probably find me building something.
 </p>
 
 <p>
-  ⚡ Full-stack things &nbsp;•&nbsp;
-  🧠 backend adventures &nbsp;•&nbsp;
-  🎨 UI experiments &nbsp;•&nbsp;
-  🤖 AI-assisted building
+  I enjoy taking an idea that exists only in my head and slowly turning it
+  <br>
+  into something people can actually <strong>click, use, break, and enjoy.</strong>
 </p>
 
 <p>
-  Currently somewhere between
-  <br>
-  <strong>building</strong> → <strong>breaking</strong> → <strong>debugging</strong> → <strong>“OH IT WORKS!”</strong>
-</p>
-
-<br>
-
-<h2>💗 things that keep me busy</h2>
-
-<table>
-<tr>
-<td align="center">💻<br><strong>CODE</strong><br><sub>build • break • rebuild</sub></td>
-<td align="center">🎮<br><strong>GAMES</strong><br><sub>AAA worlds & side quests</sub></td>
-<td align="center">✨<br><strong>CREATE</strong><br><sub>ideas → reality</sub></td>
-</tr>
-</table>
-
-<br>
-
-<h2>🎮 currently in my gaming era</h2>
-
-<p>
-  🤠 <strong>Red Dead Redemption 2</strong>
-  <br>
-  <sub>still one of my all-time favorites. yeehaw. 🐎</sub>
-</p>
-
-<p>
-  🚗💨 <strong>GTA VI</strong>
-  <br>
-  <sub>waiting patiently... very patiently... 👀</sub>
+  These days I'm especially into
+  <code>full-stack development</code>,
+  <code>backend engineering</code>,
+  <code>Java / Spring Boot</code>,
+  and figuring out what makes software tick under the hood.
 </p>
 
 <br>
 
+<h2>🧠 the part of coding I actually love</h2>
+
 <p>
-  <code>███████████████████░</code>
+  It's not just writing code.
   <br>
-  <sub>loading another side quest...</sub>
+  It's the moment when a messy problem suddenly becomes
+  <strong>"wait... I know how to solve this."</strong>
+</p>
+
+<p>
+  I like learning by building, going down rabbit holes,
+  <br>
+  understanding why something works, breaking it,
+  <br>
+  fixing it, and then realizing I accidentally learned five new things.
+</p>
+
+<p>
+  <code>curiosity → rabbit hole → experiment → bug → fix → XP gained ✦</code>
+</p>
+
+<br>
+
+<h2>🎮 side quests are important too</h2>
+
+<p>
+  When I'm not fighting bugs, I'm probably fighting fictional problems
+  <br>
+  in a completely different universe.
+</p>
+
+<p>
+  🤠 <strong>Red Dead Redemption 2</strong> - currently riding through the wild west.
+  <br>
+  🚗💨 <strong>GTA VI</strong> - patiently waiting for the next big side quest.
+</p>
+
+<p>
+  I love AAA games for the same reason I love building software:
+  <br>
+  <strong>someone imagined an entire world, then actually built it.</strong>
+</p>
+
+<br>
+
+<h2>🌙 currently somewhere between...</h2>
+
+<p>
+  <code>shipping something</code>
+  &nbsp;•&nbsp;
+  <code>learning something</code>
+  &nbsp;•&nbsp;
+  <code>playing something</code>
+</p>
+
+<p>
+  And occasionally staring at my code for 20 minutes wondering
+  <br>
+  why it worked five minutes ago.
 </p>
 
 <br>
 
 <p>
-  ✦ I write <code>code</code> for fun. ✦
-  <br>
-  ✦ I build things because I can't leave an idea alone. ✦
-  <br>
-  ✦ I play games when the debugging gets personal. ✦
+  ✦ <strong>build curious.</strong>
+  &nbsp;
+  ✦ <strong>play often.</strong>
+  &nbsp;
+  ✦ <strong>keep exploring.</strong>
 </p>
 
 <br>
